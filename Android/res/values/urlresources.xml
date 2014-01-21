@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="base_url">http://54.201.133.254/</string>
+    <string name="register_url">register</string>
+    <string name="daterange_url">daterange</string>
+    <string name="categories_url">categories</string>
+    <string name="groupbylocations_url">groupByLocation</string>
+    <string name="groupbytime_url">groupByTime</string>
+    <string name="groupbymonth_url">groupByMonth</string>
+    <string name="groupbycateogry_url">groupByCategory</string>
+    <string name="getincidentsbylocation_url">incidentsByLocation</string>
+    <string name="getincidentsbytime_url">incidentsByTime</string>
+    <string name="getincidentsbymonth_url">incidentsByMonth</string>
+    <string name="getincidentsbycategory_url">incidentsByCategory</string>
+    <string name="report_url">report</string>
+    <string name="help_url">checkin</string>
+</resources>
